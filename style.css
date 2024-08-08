@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: blue !important;
+}
+
+h1{
+  font-family: 'Rubik Burned', system-ui;
+  text-align:center;
+
+}
+
+
